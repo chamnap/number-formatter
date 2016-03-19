@@ -3,6 +3,13 @@ Number Formatter
 
 A small library that adds commas to numbers
 
+----
+
+**NOTE: It's an npm module following tutorial from [https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738](https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738).**
+
+----
+
+
 ## Installation
 
   `npm install @chamnap/number-formatter`
